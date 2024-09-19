@@ -1,0 +1,6 @@
+This is the first line.
+Number of students: 50
+Welcome to the Python class!
+This is an appended line.
+Number of teachers: 5
+Class time: 9 AM.
